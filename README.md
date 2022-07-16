@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GokhanCeylanov
+- 👋 Hi, I’m @GokhanCeylan
 - 👀 I’m interested in Website Designing
 - 🌱 I’m currently learning Wordpress
 - 💞️ I’m looking to collaborate on ...
